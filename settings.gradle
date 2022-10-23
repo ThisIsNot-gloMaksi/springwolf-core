@@ -6,6 +6,7 @@ include(
         'springwolf-plugins:springwolf-kafka-plugin',
         'springwolf-examples:springwolf-kafka-example',
         'springwolf-examples:springwolf-amqp-example',
+        'springwolf-examples:springwolf-sqs-example',
         'springwolf-add-ons:springwolf-common-model-converters'
 )
 
